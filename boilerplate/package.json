@@ -1,10 +1,10 @@
 {
-  "name": "include-scss-template-engine",
+  "name": "include-scss-template",
   "version": "1.0.0",
   "license": "UNLINCENSE",
   "private": true,
-  "description": "템플릿 엔진",
-  "author": "junikang <vxggangxv@naver.com>",
+  "description": "Boilerplate",
+  "author": "hyejunk <vxggangxv@naver.com>",
   "browserslist": [
     "last 2 version",
     "> 0.5%",
