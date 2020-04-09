@@ -26,7 +26,7 @@ function bSync() {
     browserSync.init({
         // watch: true,
         port: 3030,
-        startPath: './views/main',
+        startPath: './main/',
         server: {
             baseDir: './dist'
         }
